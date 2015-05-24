@@ -1,13 +1,10 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 
 ##makeCacheMatrix creates a special "matrix", wich is actually 
 ## a list containing 4 functions to
-## 1. set the value of the matrix in a cache
-## 2. get the value of the matrix from the cache
-## 3. set the value of the Inverse in a cache
-## 4. get the value of the Inverse from the cache
+## 1. set the value of the matrix 
+## 2. get the value of the matrix 
+## 3. set the value of the Inverse 
+## 4. get the value of the Inverse 
 
 
 makeCacheMatrix <- function(x = matrix()) {
